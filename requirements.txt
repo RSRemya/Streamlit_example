@@ -7,4 +7,3 @@ scipy
 scikit-learn
 xgboost
 streamlit
-pickle5  # Used for pickle support, may not be necessary if you're not using pickle5 specifically
